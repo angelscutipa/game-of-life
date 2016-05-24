@@ -1,5 +1,6 @@
-# game-of-life
-<h1>conway's game of life | Python 3</h1>
+# conway's game of life | Python 3
+
+<h3>Instructions:</h3>
 
 <pre>
 You can use this to set the <<update_delay_in_seconds>>:
