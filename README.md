@@ -1,6 +1,6 @@
 # conway's game of life | Python 3
 
-<h3>Instructions:</h3>
+<h4>Instructions:</h4>
 
 <pre>
 You can use this to set the <<update_delay_in_seconds>>:
