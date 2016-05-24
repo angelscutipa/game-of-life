@@ -4,7 +4,7 @@
 
 <pre>
 You can use this to set the <<update_delay_in_seconds>>:
-    <code>pyhon game_of_life.py <update_delay_in_seconds></code>
+    <span style="color:red">pyhon game_of_life.py <update_delay_in_seconds></span>
     
 You can use this to modify the seed of spawn:
     pyhon game_of_life.py <update_delay_in_seconds> <number(5 - 10)>
