@@ -2,7 +2,7 @@
 
 <h4>Instructions:</h4>
 
-You can use this to set the update_delay_in_seconds:
+You can use this to set the \<<update_delay_in_seconds>>:
     <pre>
         pyhon game_of_life.py \<update_delay_in_seconds>
     </pre>
