@@ -13,9 +13,15 @@ from threading import Thread
 _sleepTime = 0.5
 _clsCMD = "cls"   #If you are in linux change it by "clear"
 _Probability_of_no_spawn = 7  #5-10
+
+#---Set parameters with sys.argv-----#
+if len(sys.argv) > 2:
+	_Probability_of_no_spawn = int(sys.argv[2])
+if len(sys.argv) > 1:
+	_sleepTime = float(sys.argv[1])
+#----end------#
+
 #----------------#
-
-
 
 stopAll = False
 
